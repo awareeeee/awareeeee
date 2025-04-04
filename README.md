@@ -32,6 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=awareeeee&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://img.shields.io/badge/Contributions%20priv%C3%A9es-42%2B-blueviolet?style=for-the-badge&logo=github" />
 </p>
 
 ---
