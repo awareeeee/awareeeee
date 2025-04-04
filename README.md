@@ -1,9 +1,10 @@
 <h1 align="center">Hey, moi c'est Aware, j'ai 19 ans.</h1>
 
 <p align="center">
-  • Front-end developer 💻 
-  • Fan de CSS qui claque 🎨 
-  • Créateur de <a href="https://french.gg" target="_blank"><b>French.gg</b></a> 🇫🇷
+  <br>• Front-end developer 💻 
+  <br>• Développeur de Bot Discord depuis 2020 📡
+  <br>•J'ai fait mon premier site quand j'avais 11 ans ⏰
+  <br>• Créateur de <a href="https://french.gg" target="_blank"><b>French.gg</b></a> 🇫🇷
 </p>
 
 ---
@@ -12,7 +13,7 @@
 
 - 🔭 Je bosse actuellement sur **French.gg**, la plateforme de centralisation pour les réseaux sociaux de créateurs.
 - 💬 Language & framework : `HTML`, `CSS`, `JS`, `Discord.js`, `NodeJS``.
-- 🎯 Objectif : faire des outils utiles pour les communautées et leurs créateurs.
+- 🎯 Objectif : Proposer des plateformes et des outils utiles pour les communautées et leurs créateurs.
 
 ---
 
@@ -38,19 +39,21 @@
 
 ### 🚀 Projets à suivre
 
-- [🔗 French.gg](https://french.gg) – Annuaire de serveurs Discord 🇫🇷
-- [🎨 Portfolio (bientôt)](https://aware.dev) – Pour exposer mes projets front cool
+- [🔗 French.gg](https://french.gg/serveurs) – Annuaire de serveurs Discord 🇫🇷
+- [🎨 Portfolio (bientôt)](https://awaree.dev) – Pour exposer mes projets front cool
+- [💼 Delavigne Digital](https://delavigne-digital.fr) – Mon entreprise de création de site WEB destinée aux TPE/PME ( commerce et restaurant)
 
 ---
 
-### 📫 Tu veux papoter, collab ou autre ?
+### 📫 Mes réseaux sociaux 
 
-- 💌 aware@aware.dev  
-- 🌍 [aware.dev](https://aware.dev)  
-- 🐤 [Twitter](https://twitter.com/) _(à compléter)_  
-- 💬 [Discord](https://discord.gg/kEUExkud6v)
+- 💌 contact@french.gg  
+- 🌍 [awaree.dev](https://awaree.dev)
+- 📸 [Instagram](https://instagram.com/eliottdlv)  
+- 🐤 [Twitter](https://x.com/awareeee_) 
+- 💬 [Discord](https://discord.gg/kEUEzkud6v)
 
 ---
 
-> *"Code comme si t’envoyais un DM à ton futur toi."* – Aware, probablement
+> *"On a une règle d'or chez les devs, si ça marche, on touche plus"* – Aware (qu'il faut d'ailleurs pas écouter)
 
