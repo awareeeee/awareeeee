@@ -32,6 +32,7 @@
 
 <p align="center">
   <img src="./assets/github-stats.svg" alt="Stats GitHub privées" />
+  <a href=""><img src="https://komarev.com/ghpvc/?username=flav-code&style=for-the-badge" alt="rien"/></a>
 </p>
 
 ---
