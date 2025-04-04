@@ -12,7 +12,7 @@
 ### 🧠 À propos de moi
 
 - 🔭 Je bosse actuellement sur **French.gg**, la plateforme de centralisation pour les réseaux sociaux de créateurs.
-- 💬 Language & framework : `HTML`, `CSS`, `JS`, `Discord.js`, `NodeJS``.
+- 💬 Language & framework : `HTML`, `CSS`, `JS`, `Discord.js`, `NodeJS`.
 - 🎯 Objectif : Proposer des plateformes et des outils utiles pour les communautées et leurs créateurs.
 
 ---
