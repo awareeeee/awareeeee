@@ -31,7 +31,6 @@
 ### 📊 Stats GitHub ( privé )
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awareeeee&show_icons=true&theme=tokyonight" height="160"/>
   <img src="./assets/github-stats.svg" alt="Stats GitHub privées" />
 </p>
 
