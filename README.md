@@ -4,8 +4,10 @@
   <br>• Front-end developer 💻 
   <br>• Développeur de Bot Discord depuis 2020 📡
   <br>•J'ai fait mon premier site quand j'avais 11 ans ⏰
-  <br>• Créateur de <a href="https://french.gg" target="_blank"><b>French.gg</b></a> 🇫🇷
+  <br>• Créateur de <a href="https://french.gg" target="_blank"><b>French.gg</b></a> 🇫🇷 <br>
+  <br><a href=""><img src="https://komarev.com/ghpvc/?username=awareeeee&style=for-the-badge" style:"height:35px;" alt="rien"/></a>
 </p>
+
 
 ---
 
@@ -32,7 +34,6 @@
 
 <p align="center">
   <img src="./assets/github-stats.svg" alt="Stats GitHub privées" />
-  <a href=""><img src="https://komarev.com/ghpvc/?username=awareeeee&style=for-the-badge" alt="rien"/></a>
 </p>
 
 ---
