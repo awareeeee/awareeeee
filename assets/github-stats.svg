@@ -1,14 +1,20 @@
 
-<svg width="380" height="130" viewBox="0 0 380 130" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="160" viewBox="0 0 400 160" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .bg { fill: #0d1117; }
-    .title { font: bold 16px sans-serif; fill: #58a6ff; }
-    .stat { font: 14px sans-serif; fill: #c9d1d9; }
+    .bg { fill: #0d1117; stroke: #30363d; rx: 8; }
+    .title { font: bold 16px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; }
+    .label { font: 14px 'Segoe UI', sans-serif; fill: #c9d1d9; }
+    .footer { font: 10px 'Segoe UI', sans-serif; fill: #8b949e; }
   </style>
+
   <rect width="100%" height="100%" class="bg" rx="10"/>
-  <text x="20" y="30" class="title">Aware's GitHub Stats</text>
-  <text x="20" y="60" class="stat">📦 Commits en 2025 : 78</text>
-  <text x="20" y="80" class="stat">🐛 Issues : 16</text>
-  <text x="20" y="100" class="stat">🔀 Pull Requests : 0</text>
-  <text x="20" y="120" class="stat">⭐ Stars : 1</text>
+
+  <text x="20" y="30" class="title">🌐 Aware's GitHub Stats</text>
+
+  <text x="20" y="60" class="label">📦 Commits in 2025 : 78</text>
+  <text x="20" y="80" class="label">🐛 Issues : 16</text>
+  <text x="20" y="100" class="label">🔀 Pull Requests : 0</text>
+  <text x="20" y="120" class="label">⭐ Stars : 1</text>
+
+  <text x="200" y="145" class="footer" text-anchor="middle">Dernière mise à jour : 2025-04-04</text>
 </svg>
