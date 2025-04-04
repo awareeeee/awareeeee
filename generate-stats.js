@@ -1,6 +1,11 @@
 const fs = require('fs');
 const data = JSON.parse(fs.readFileSync('./data.json', 'utf8'));
 
+// On vérifie que le dossier assets existe
+if (!fs.existsSync('./assets')) {
+  fs.mkdirSync('./assets');
+}
+
 const svg = `
 <svg width="380" height="130" viewBox="0 0 380 130" xmlns="http://www.w3.org/2000/svg">
   <style>
@@ -9,8 +14,8 @@ const svg = `
     .stat { font: 14px sans-serif; fill: #c9d1d9; }
   </style>
   <rect width="100%" height="100%" class="bg" rx="10"/>
-  <text x="20" y="30" class="title">Aware's GitHub Stats (Privées)</text>
-  <text x="20" y="60" class="stat">📦 Commits ${data.year} : ${data.commits}</text>
+  <text x="20" y="30" class="title">🌐 Aware's GitHub Stats</text>
+  <text x="20" y="60" class="stat">📦 Commits in ${data.year} : ${data.commits}</text>
   <text x="20" y="80" class="stat">🐛 Issues : ${data.issues}</text>
   <text x="20" y="100" class="stat">🔀 Pull Requests : ${data.prs}</text>
   <text x="20" y="120" class="stat">⭐ Stars : ${data.stars}</text>
