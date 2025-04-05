@@ -1,7 +1,7 @@
 <h1 align="center">Hey, moi c'est Aware, j'ai 19 ans.</h1>
 
 <p align="center">
-  <br>• Front-end developer 💻 
+  <br>• Développeur Front-end 💻 
   <br>• Développeur de Bot Discord depuis 2020 📡
   <br>•J'ai fait mon premier site quand j'avais 11 ans ⏰
   <br>• Créateur de <a href="https://french.gg" target="_blank"><b>French.gg</b></a> 🇫🇷 <br>
