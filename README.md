@@ -33,7 +33,6 @@
 ### 📊 Stats GitHub ( privé )
 
 <p align="center">
-  <img src="./assets/github-stats.svg" alt="Stats GitHub privées" />
   <img src="https://streak-stats.demolab.com?user=awareeeee&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
