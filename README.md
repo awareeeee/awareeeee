@@ -43,7 +43,7 @@
 ### 🚀 Projets à suivre
 
 - [🔗 French.gg](https://french.gg/serveurs) – Annuaire de serveurs Discord 🇫🇷
-- [🎨 Portfolio (bientôt)](https://awaree.dev) – Pour exposer mes projets 
+- [🎨 Portfolio](https://awaree.dev) – Pour exposer mes projets 
 - [💼 Delavigne Digital](https://delavigne-digital.fr) – Mon entreprise de création de site WEB destinée aux TPE/PME ( commerce et restaurant)
 
 ---
