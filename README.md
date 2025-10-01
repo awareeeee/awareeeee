@@ -1,4 +1,4 @@
-<h1 align="center">Hey, moi c'est Aware, j'ai 19 ans.</h1>
+<h1 align="center">Hey, moi c'est Eliott, j'ai 19 ans.</h1>
 
 <p align="center">
   <br>• Développeur Front-end 💻 
@@ -43,8 +43,8 @@
 ### 🚀 Projets à suivre
 
 - [🔗 French.gg](https://french.gg/serveurs) – Annuaire de serveurs Discord 🇫🇷
-- [🎨 Portfolio](https://awaree.dev) – Pour exposer mes projets 
 - [💼 Delavigne Digital](https://delavigne-digital.fr) – Mon entreprise de création de site WEB destinée aux TPE/PME ( commerce et restaurant)
+- [🎨 Portfolio](https://awaree.dev) – Pour exposer mes projets 
 
 ---
 
