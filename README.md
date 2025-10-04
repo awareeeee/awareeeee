@@ -27,8 +27,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=discord&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
 
 ---
 
