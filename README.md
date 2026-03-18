@@ -13,8 +13,8 @@
 
 ### 🧠 À propos de moi
 
-- 🔭 Je bosse actuellement sur **French.gg**, la plateforme de centralisation pour les réseaux sociaux de créateurs.
-- 💬 Language & framework : `HTML`, `CSS`, `JS`, `TypeScript` `Discord.js`, `NodeJS` & `Vue`.
+- 🔭 Je bosse actuellement sur **French.gg**, une plateforme de mise en avant de créateur de contenue et de communauté.
+- 💬 Language & framework : `HTML`, `CSS`, `JS`, `TypeScript` `Discord.js`, `NodeJS`, `Vue`....
 - 🎯 Objectif : Proposer des plateformes et des outils utiles pour les communautées et leurs créateurs.
 
 ---
@@ -46,18 +46,16 @@
 
 ### 🚀 Projets à suivre
 
-- [🔗 French.gg](https://french.gg/serveurs) – Annuaire de serveurs Discord 🇫🇷
-- [💼 Delavigne Digital](https://delavigne-digital.fr) – Mon entreprise de création de site WEB destinée aux TPE/PME ( commerce et restaurant)
-- [🎨 Portfolio](https://awaree.dev) – Pour exposer mes projets 
+- [🔗 French.gg](https://french.gg/) – Annuaire de serveurs Discord 🇫🇷
+- [💼 Delavigne Digital](https://delavigne-digital.fr) – Mon entreprise de création de site WEB destinée aux TPE/PME 
+- [🧗🏼 Grimptrack](https://grimptrack.fr) – Application pour les clubs associatif d'escalade  
 
 ---
 
 ### 📫 Mes réseaux sociaux 
 
-- 💌 contact@french.gg  
-- 🌍 [awaree.dev](https://awaree.dev)
+- 💌 contact@french.gg
 - 📸 [Instagram](https://instagram.com/eliottdlv)  
-- 🐤 [Twitter](https://x.com/awareeee_) 
 - 💬 [Discord](https://discord.gg/kEUEzkud6v)
 
 ---
